@@ -5,35 +5,39 @@ VisualStudioVersion = 17.13.35931.197
 MinimumVisualStudioVersion = 10.0.40219.1
 Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "BubbleSort", "BubbleSort", "{02EA681E-C7D8-13C7-8484-4AC65E1B71E8}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "BubbleSort", "BubbleSort\BubbleSort.csproj", "{023A0447-C941-41B4-928B-7E42484053B6}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "BubbleSort", "BubbleSort\BubbleSort.csproj", "{023A0447-C941-41B4-928B-7E42484053B6}"
 EndProject
 Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "SelectionSort", "SelectionSort", "{E59FB690-39B7-456F-B896-D4E2CB948640}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "SelectionSort", "SelectionSort\SelectionSort.csproj", "{1025CE35-AB92-4049-9F38-2E00739171BE}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "SelectionSort", "SelectionSort\SelectionSort.csproj", "{1025CE35-AB92-4049-9F38-2E00739171BE}"
 EndProject
 Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "QuickSort", "QuickSort", "{DA59576C-61F1-4C40-88ED-2841BB9FDD75}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "QuickSort", "QuickSort\QuickSort.csproj", "{81C974DB-1CB4-4AF2-AD88-C353F45761CC}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "QuickSort", "QuickSort\QuickSort.csproj", "{81C974DB-1CB4-4AF2-AD88-C353F45761CC}"
 EndProject
 Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "MergeSort", "MergeSort", "{A92D0E7A-4F50-4412-8596-11C4112BBB92}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "MergeSort", "MergeSort\MergeSort.csproj", "{4EEB49E6-1EAA-47DA-9E1F-69350BEB5B22}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "MergeSort", "MergeSort\MergeSort.csproj", "{4EEB49E6-1EAA-47DA-9E1F-69350BEB5B22}"
 EndProject
 Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "LinearSearch", "LinearSearch", "{B55A6636-992D-4812-A302-CB09CE8BCD1F}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "LinearSearch", "LinearSearch\LinearSearch.csproj", "{1CB02949-082C-49E7-B483-8FC616BC2976}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "LinearSearch", "LinearSearch\LinearSearch.csproj", "{1CB02949-082C-49E7-B483-8FC616BC2976}"
 EndProject
 Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "BinarySearch", "BinarySearch", "{84B6116A-84BF-4BBE-A17E-3ACEFEF012A3}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "BinarySearch", "BinarySearch\BinarySearch.csproj", "{3280B934-2D34-489D-A38F-227AC91CCC48}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "BinarySearch", "BinarySearch\BinarySearch.csproj", "{3280B934-2D34-489D-A38F-227AC91CCC48}"
 EndProject
 Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "BreadthFirstSearch", "BreadthFirstSearch", "{BF699DEF-392E-4490-857E-AE379EAA23C2}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "BreadthFirstSearch", "BreadthFirstSearch\BreadthFirstSearch.csproj", "{0C9981B5-7493-4ED6-A5CD-767EFA5CB75C}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "BreadthFirstSearch", "BreadthFirstSearch\BreadthFirstSearch.csproj", "{0C9981B5-7493-4ED6-A5CD-767EFA5CB75C}"
 EndProject
 Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "DepthFirstSearch", "DepthFirstSearch", "{C10D6049-3282-411C-ACF0-4E063310FDD5}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "DepthFirstSearch", "DepthFirstSearch\DepthFirstSearch.csproj", "{DAD70438-EDFB-4D6C-B0C8-DB99B83BA7A3}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "DepthFirstSearch", "DepthFirstSearch\DepthFirstSearch.csproj", "{DAD70438-EDFB-4D6C-B0C8-DB99B83BA7A3}"
+EndProject
+Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "MahdiAbasi", "MahdiAbasi", "{F9C70714-9EC9-4746-8F2F-AB7289AE7E3F}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "CountingSort", "CountingSort\CountingSort.csproj", "{E21C9229-AC5B-493B-9BB2-CDAA08A4585E}"
 EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
@@ -73,6 +77,10 @@ Global
 		{DAD70438-EDFB-4D6C-B0C8-DB99B83BA7A3}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{DAD70438-EDFB-4D6C-B0C8-DB99B83BA7A3}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{DAD70438-EDFB-4D6C-B0C8-DB99B83BA7A3}.Release|Any CPU.Build.0 = Release|Any CPU
+		{E21C9229-AC5B-493B-9BB2-CDAA08A4585E}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{E21C9229-AC5B-493B-9BB2-CDAA08A4585E}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{E21C9229-AC5B-493B-9BB2-CDAA08A4585E}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{E21C9229-AC5B-493B-9BB2-CDAA08A4585E}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
@@ -86,6 +94,7 @@ Global
 		{3280B934-2D34-489D-A38F-227AC91CCC48} = {84B6116A-84BF-4BBE-A17E-3ACEFEF012A3}
 		{0C9981B5-7493-4ED6-A5CD-767EFA5CB75C} = {BF699DEF-392E-4490-857E-AE379EAA23C2}
 		{DAD70438-EDFB-4D6C-B0C8-DB99B83BA7A3} = {C10D6049-3282-411C-ACF0-4E063310FDD5}
+		{E21C9229-AC5B-493B-9BB2-CDAA08A4585E} = {F9C70714-9EC9-4746-8F2F-AB7289AE7E3F}
 	EndGlobalSection
 	GlobalSection(ExtensibilityGlobals) = postSolution
 		SolutionGuid = {92AA3A2C-3558-43A3-A893-6E75D4995231}
